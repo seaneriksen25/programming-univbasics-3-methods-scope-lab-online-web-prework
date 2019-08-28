@@ -9,4 +9,6 @@ def toadstool
 end
 
 def link
-  puts "It's "
+  alert = "It's Dangerous To Go Alone! Take This!"
+  puts alert
+end
