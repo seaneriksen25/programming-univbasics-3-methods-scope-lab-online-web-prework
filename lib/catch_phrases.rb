@@ -9,6 +9,11 @@ def toadstool
 end
 
 def link
-  alert = "It's Dangerous To Go Alone! Take This!"
+  alert = "It's Dangerous To Go Alone! Take This."
   puts alert
+end
+
+def any_phrase(phrase)
+  hey = "Do a Barrel Roll!"
+  puts hey
 end
